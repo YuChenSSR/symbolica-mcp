@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/yuchenssr-symbolica-mcp-badge.png)](https://mseep.ai/app/yuchenssr-symbolica-mcp)
+
 # symbolica-mcp
 
 A scientific computing Model Context Protocol (MCP) server allows AI, such as Claude, to perform symbolic computing, conduct calculations, analyze data, and generate visualizations. This is particularly useful for scientific and engineering applications, including quantum computing, all within a containerized environment.
